@@ -15,3 +15,4 @@ Wealth segment by age category
 Number of cars owned in each state.
 
 Customer classification.
+![kpmg](https://user-images.githubusercontent.com/100838547/216975400-6c9e228f-ce45-4bfc-b035-0a94e46da07c.png)
